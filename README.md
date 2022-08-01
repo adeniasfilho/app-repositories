@@ -1,3 +1,8 @@
+![image](https://user-images.githubusercontent.com/80496718/168937222-0f94c1c8-0eaf-4117-9bc6-645485a8c389.png)
+
+
+
+
 App Android para apresentar portfólio de projetos do GitHub.O processo de desenvolvimento utilizou-se:
 - linguagem Kotlin;
 - Chips: os chips permitem que os usuários insiram informações, façam seleções, filtrem conteúdo ou acionem ações,
